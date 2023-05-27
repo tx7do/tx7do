@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- My Github Blog: <https://tx7do.github.io>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tx7do&theme=<THEME_NAME>" />
+
+
 <!--
 **tx7do/tx7do** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
