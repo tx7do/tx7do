@@ -26,8 +26,7 @@
 
 ### 📊 开发统计
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/api?username=tx7do&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="总体统计" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=tx7do&theme=tokyonight&layout=compact&langs_count=8" alt="语言统计" />
+  <img src="https://stats.justsong.cn/api?username=tx7do&show_icons=true&theme=tokyonight" />
 </div>
 
 ### 🌟 精选项目
