@@ -21,7 +21,9 @@
 
 ### 💻 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,ts,dart,rust,python,java,docker,k8s" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,go,ts,js,dart,rust,python,java,php" alt="语言" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,unreal" alt="游戏引擎" />
+  <img src="https://skillicons.dev/icons?i=vue,react,qt,flutter,electron" alt="前端框架" />
 </p>
 
 ### 📊 开发统计
