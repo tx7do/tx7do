@@ -21,7 +21,7 @@
 
 ### 💻 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,ts,docker,k8s" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,ts,dart,docker,k8s" alt="技术栈" />
 </p>
 
 ### 📊 开发统计
@@ -31,13 +31,6 @@
 </div>
 
 ### 🌟 精选项目
-- [项目1名称](项目链接) - 简短描述（如：一个高性能的XX工具）
-- [项目2名称](项目链接) - 简短描述（如：基于XX技术的开源解决方案）
-- [项目3名称](项目链接) - 简短描述（如：帮助开发者快速上手XX的教程仓库）
-
-<p align="center">
-  <img src="https://github.com/tx7do/tx7do/blob/output/github-contribution-grid-snake.svg" alt="贡献蛇形图" />
-</p>
 
 ---
 
