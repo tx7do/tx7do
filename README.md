@@ -13,11 +13,11 @@
 </div>
 
 ### 🚀 关于我
-- 🔭 目前专注于 [你的技术方向，如：全栈开发 / 人工智能 / 游戏开发 / 嵌入式系统]
-- 🌱 正在深入学习 [新技术，如：Rust 语言 / 分布式系统 / 机器学习框架]
+- 🔭 目前专注于 [全栈开发 / 人工智能 / 游戏开发 / 嵌入式系统]
+- 🌱 正在深入学习 [分布式系统 / 机器学习框架]
 - 👨‍💻 所有项目都在 [我的 repositories](https://github.com/tx7do?tab=repositories)
-- 💬 欢迎讨论 [感兴趣的话题，如：前端工程化 / 云原生 / 开源协作]
-- 📫 联系我：Gmail: `yanglinbo@gmail.com` | 微信: `yang_lin_bo`
+- 💬 欢迎讨论 [游戏开发 / 云原生 / 开源协作]
+- 📫 联系我：[Gmail: `yanglinbo@gmail.com` | 微信: `yang_lin_bo`]
 
 ### 💻 技术栈
 <p align="center">
