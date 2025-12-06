@@ -17,7 +17,7 @@
 - 🌱 正在深入学习 [新技术，如：Rust 语言 / 分布式系统 / 机器学习框架]
 - 👨‍💻 所有项目都在 [我的 repositories](https://github.com/tx7do?tab=repositories)
 - 💬 欢迎讨论 [感兴趣的话题，如：前端工程化 / 云原生 / 开源协作]
-- 📫 联系我：[邮箱或其他方式]
+- 📫 联系我：Gmail: `yanglinbo@gmail.com` | 微信: `yang_lin_bo`
 
 ### 💻 技术栈
 <p align="center">
