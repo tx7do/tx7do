@@ -3,7 +3,6 @@
 - My Github Blog: <https://tx7do.github.io>
 - My JueJin Blog: <https://juejin.cn/user/1350630784901262>
 - My ZhiHu Blog: <https://www.zhihu.com/people/tx7do>
-- My InfoQ Blog: <https://www.infoq.cn/u/tx7do>
 - My JianShu Blog: <https://www.jianshu.com/u/bc0c3da72757>
 - My Aliyun Blog: <https://developer.aliyun.com/profile/vxptxj5o4gfac>
 - My Medium: <https://medium.com/@yanglinbo>
