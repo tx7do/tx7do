@@ -21,7 +21,7 @@
 
 ### 💻 技术栈
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,go,ts,dart,Cshape,python,java,docker,k8s" alt="技术栈" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,ts,dart,csharp,python,java,docker,k8s" alt="技术栈" />
 </p>
 
 ### 📊 开发统计
