@@ -25,9 +25,6 @@
 </p>
 
 ### 📊 开发统计
-<div align="center">
-  <img src="https://stats.justsong.cn/api?username=tx7do&show_icons=true&theme=tokyonight" />
-</div>
 
 ### 🌟 精选项目
 
