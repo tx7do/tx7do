@@ -8,10 +8,6 @@
   <a href="https://medium.com/@yanglinbo"><img src="https://img.shields.io/badge/Medium-国际专栏-black?style=flat-square&logo=medium" alt="Medium"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tx7do&theme=tokyonight&hide_border=true" alt="连续贡献统计" />
-</div>
-
 ### 🚀 关于我
 - 🔭 目前专注于 [全栈开发 / 人工智能 / 游戏开发 / 嵌入式系统]
 - 🌱 正在深入学习 [分布式系统 / 机器学习框架]
