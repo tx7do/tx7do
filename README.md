@@ -6,6 +6,7 @@
   <a href="https://www.zhihu.com/people/tx7do"><img src="https://img.shields.io/badge/知乎-问答分享-blue?style=flat-square&logo=zhihu" alt="ZhiHu"></a>
   <a href="https://developer.aliyun.com/profile/vxptxj5o4gfac"><img src="https://img.shields.io/badge/阿里云-开发者社区-blue?style=flat-square&logo=aliyun" alt="Aliyun Developer"></a>
   <a href="https://medium.com/@yanglinbo"><img src="https://img.shields.io/badge/Medium-国际专栏-black?style=flat-square&logo=medium" alt="Medium"></a>
+  <a href="https://www.infoq.cn/u/yanglinbo"><img src="https://img.shields.io/badge/InfoQ-Profile-blue?style=flat-square&logo=infoq&logoColor=white" alt="InfoQ 个人主页"></a>
 </p>
 
 ### 🚀 关于我
